@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/home/home" 
+  ],
+  "window": {
+"backgroundTextStyle": "light",
+"navigationBarBackgroundColor": "#fac",
+"navigationBarTitleText": "可爱的小姐姐啊",
+"navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
+
